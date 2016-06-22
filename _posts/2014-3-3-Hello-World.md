@@ -23,7 +23,6 @@ Story:
 One artist with bag full of neon paints want to draw beatiful picture consist of circles.
 
 ---
-layout: post
 title: About Developers
 ---
 
