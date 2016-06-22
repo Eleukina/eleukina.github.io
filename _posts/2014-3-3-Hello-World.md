@@ -14,10 +14,10 @@ Player have to click and hold to make line circle around special points needed t
 
 ![_config.yml]({{ site.baseurl }}/images/One-More-Line-003.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/onemoreline.jpg)
-
 Winning condition:
 Player's aim is not bump to points and walls. If he do it, then he lose.
+
+![_config.yml]({{ site.baseurl }}/images/onemoreline.jpg)
 
 Story:
 One artist with bag full of neon paints want to draw beatiful picture consist of circles.
