@@ -16,20 +16,8 @@ I have 2 sisters: elder sister and twin sister.
 
 I am going to entry 9 grade.
 
-I like:
-
-Sweets
-
-Berries
-
-Velo sport
-
-To learn lnguages
+I like sweets, berries, velo sport, to learn lnguages.
 
 ### My Future
 
-I want to:
-
-Study in foreign country
-
-Pass all exams
+I want to study in foreign country, pass all exams
