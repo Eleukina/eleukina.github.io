@@ -7,4 +7,15 @@ My favorite game is...One More Line
 
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Today I want to show you one cool game. It called One More Line. It is mobile game, which I use every day) Let me tell about this game:
+Rules of play:
+Player have to click and hold to make line circle around special points needed to engage for them. If player want to release line, then he should not hold screen. If he need to engage again, then he should click and hold again. 
+
+![_config.yml]({{ site.baseurl }}/images/One-More-Line-003.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/onemoreline.jpg)
+
+Winning condition:
+Player's aim is not bump to points and walls. If he do it, then he lose.
+
+Story:
