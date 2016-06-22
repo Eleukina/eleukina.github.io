@@ -21,8 +21,10 @@ Player's aim is not bump to points and walls. If he do it, then he lose.
 
 Story:
 One artist with bag full of neon paints want to draw beatiful picture consist of circles.
+
 ---
 layout: post
 title: About Developers
 ---
+
 Hello!
