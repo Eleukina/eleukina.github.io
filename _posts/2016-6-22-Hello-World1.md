@@ -3,7 +3,7 @@ layout: post
 title: About developers
 ---
 
-My favorite game is...One More Line
+My favoritHBJNKML:<>
 
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
 
