@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ONE MOREE LINE
+title: One more line game
 ---
 
 My favorite game is...One More Line
@@ -21,3 +21,5 @@ Player's aim is not bump to points and walls. If he do it, then he lose.
 
 Story:
 One artist with bag full of neon paints want to draw beatiful picture consist of circles.
+
+titlle:About Developers
