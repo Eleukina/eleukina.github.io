@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WELCOME!
+title: ONE MOREE LINE
 ---
 
 My favorite game is...One More Line
