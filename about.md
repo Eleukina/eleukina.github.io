@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: About me)
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### My Past
 
-A place to include any other types of information that you'd like to include about yourself.
+I born and live in Petropavlovsk, Kazakhstan.
+I have 2 sisters: elder sister and twin sister.
 
-### Contact me
+### My Present
 
-[email@domain.com](mailto:email@domain.com)
+I am going to entry 9 grade.
+I like:
+Sweets
+Berries
+Velo sport
+To learn lnguages
+
+### My Future
+
+I want to:
+Study in foreign country
+Pass all exams
