@@ -2,7 +2,7 @@
 layout: post
 title: One more line game
 ---
-![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
+![_config.yml]({{ site.baseurl }}/images/maxresdefault2.jpg)
 
 My favorite game is...One More Line
 
