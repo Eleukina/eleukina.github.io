@@ -21,7 +21,7 @@ If the character is guessed wrong three times in a row, then you win and the pro
 
 P.s. At the start this game make me fun, but theeeen I was so angry! Because Akinator could guessed all of my words! But after multeply tries, I propose....Octocat! And I win!
 
-![_config.yml]({{ site.baseurl }}/images/111.png)
+![_config.yml]({{ site.baseurl }}/images/111.PNG)
 
 ### Story
 
