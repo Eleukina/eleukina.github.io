@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One more line game
+title: Game Review of One more line
 ---
 ![_config.yml]({{ site.baseurl }}/images/maxresdefault2.jpg)
 
