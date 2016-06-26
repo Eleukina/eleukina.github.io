@@ -21,7 +21,7 @@ If the character is guessed wrong three times in a row, then you win and the pro
 
 P.s. At the start this game make me fun, but theeeen I was so angry! Because Akinator could guessed all of my words! But after multeply tries, I propose....Octocat! And I win!
 
-![_config.yml]({{ site.baseurl }}/images/111.PNG)
+![_config.yml]({{ site.baseurl }}/images/111.png)
 
 ### Story
 
@@ -37,6 +37,8 @@ After their third try,  dense smoke poured out of lamp and formed a small opaque
 Then a grave voice rang out:
 
 "Hello, I am the Akinator. You woke me up from a centuries-long sleep. I am capable of guessing who you are thinking about with a few questions. If I cannot, if you beat me, then I shall leave you alone. But be careful! Answer my questions accurately or... or you will take my place in the lamp."
+
+![_config.yml](http://ru.akinator.com/bundles/elokencesite/images/akitudes/akinator_defi.png?v77)
 
 Our two friends answered scrupulously the genie's questions and noted that he easily guessed who were the characters they had in mind. He was very proud of this deed and started to sing and talk, talk, talk... and never seemed to stop. He seemed to have inexhaustible energy. 
 
