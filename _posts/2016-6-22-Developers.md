@@ -14,15 +14,15 @@ Software developers (or computer programmers) are the brains behind the design, 
 
 There are different developers:
 
--producer
+- producer
 
--designer
+- designer
 
--engineer
+- engineer
 
--scientist
+- scientist
 
--artist
+- artist
 
 Let's talk about each of them!
 
