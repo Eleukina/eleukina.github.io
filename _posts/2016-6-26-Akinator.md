@@ -29,12 +29,15 @@ Jeff joked :
 After their third try,  dense smoke poured out of lamp and formed a small opaque cloud. Astonished, they saw a creature appear before them. It had the aspect of a man and looked quite friendly.
 
 Then a grave voice rang out:
+
 "Hello, I am the Akinator. You woke me up from a centuries-long sleep. I am capable of guessing who you are thinking about with a few questions. If I cannot, if you beat me, then I shall leave you alone. But be careful! Answer my questions accurately or... or you will take my place in the lamp."
 
 Our two friends answered scrupulously the genie's questions and noted that he easily guessed who were the characters they had in mind. He was very proud of this deed and started to sing and talk, talk, talk... and never seemed to stop. He seemed to have inexhaustible energy. 
 
 The two travellers tried to slip away. Yet the genie was still floating in the air behind them. And Jeff asked his friend:
+
 "What are we going to do, Arnaud? He's following us everywhere. We'll never get rid of him!"
+
 "We're going to bring him back to France. He wants to discover characters; then we'll give him what he wants."
 
 Such Jeff and Arnaud create the website akinator.com.
