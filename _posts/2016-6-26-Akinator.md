@@ -2,13 +2,13 @@
 layout: post
 title: Game review of Akinator
 ---
+![_config.yml](http://small-games.info/s/l/a/akinator_1.jpg)
+
 Good morning! How are you?
 
 On Friday our teacher give us list of 10 different online games. And now I want to show you one of this game. It called Akinator. I think, all people know this game, but if you are like me don't know, then this post for you!
 
-photo
-
-Now let's analyze game.   At the start this game make me fun, but theeeen I was so angry! Because Akinator could guessed all of my words! But after multeply tries, I propose....Octocat! And I win!
+Now let's analyze game. 
 
 ### Rules of play
 
@@ -19,9 +19,15 @@ Then it will automatically ask if the character it chose is correct.
 
 If the character is guessed wrong three times in a row, then you win and the program will ask the user to type the character’s name in order to expand its database.
 
+P.s. At the start this game make me fun, but theeeen I was so angry! Because Akinator could guessed all of my words! But after multeply tries, I propose....Octocat! And I win!
+
+![_config.yml]({{ site.baseurl }}/images/111.PNG)
+
 ### Story
 
 A while ago, Arnaud and his friend Jeff had decided to go on a trip into the far away lands of the East. There they uncover an old oil lamp! 
+
+![_config.yml](http://www.magiclamptours.com/wp-content/uploads/2015/08/magic-lamp.jpg)
 
 Jeff joked :
 "I know! Pick three wishes and rub it, a genie might come out!"
