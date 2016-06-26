@@ -24,7 +24,7 @@ If the character is guessed wrong three times in a row, then you win and the pro
 A while ago, Arnaud and his friend Jeff had decided to go on a trip into the far away lands of the East. There they uncover an old oil lamp! 
 
 Jeff joked :
-- I know! Pick three wishes and rub it, a genie might come out!".
+"I know! Pick three wishes and rub it, a genie might come out!"
 
 After their third try,  dense smoke poured out of lamp and formed a small opaque cloud. Astonished, they saw a creature appear before them. It had the aspect of a man and looked quite friendly.
 
