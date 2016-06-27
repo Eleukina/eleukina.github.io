@@ -4,7 +4,7 @@ title: Who create games?
 ---
 
 ![_config.yml](https://www.ucas.com/sites/default/files/styles/full_middle_column/public/117software-developer.jpg?itok=ExHLOVN0)
- ---
+
 Hello! In this post I want to talk you about developers(yeach, how you undertsand they make all games and apps). 
 
 ### Who are there?
