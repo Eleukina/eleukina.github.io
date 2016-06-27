@@ -10,7 +10,7 @@ Hello!In this post I want to talk you about developers(yeach, how you undertsand
 
 Software developers (or computer programmers) are the brains behind the design, installation, testing and maintenance of software systems.
 
-![_config.yml]({{ site.baseurl }}/images/55555.jpg)
+![_config.yml](https://www.oskyinteractive.com.au/wp-content/uploads/2016/05/Software-Engineers-and-Developers.jpg)
 
 There are different developers:
 
@@ -46,6 +46,6 @@ Oh!Scientist have so interesting, but hard job.She or he must make hypothesis ab
 
 Artist have to make games view.Him or her work is not so hard, but it more appreciated by users.Artists attract attention to game and make it more beautiful and interesting.
 
-![_config.yml]({{ site.baseurl }}/images/software-engineer-371x371.jpg)
+![_config.yml](http://www.collegequest.com/wp-content/uploads/how-to-become-a-software-engineer.jpg)
 
 To conclusion,I want to say about my choice. Who I want to be in future? If someone ask me this question I answeer engineer.Because I think, that this job is more suitable for me than others. Because, for me this job is much more interesting and it make me develop on regular basic.
