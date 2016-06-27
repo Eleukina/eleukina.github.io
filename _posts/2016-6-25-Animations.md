@@ -8,7 +8,7 @@ At the start when me and my class undersood how to do animations, we began to ex
 
 But is not end of our work with animations...
 
-Do you ever hear about artist Seurat. He draw his pictures with dotes. And we tried to make something like he do. See my animatoin and say, is it looks like?
+Do you ever hear about artist Seurat? He draw his pictures with dotes. And we tried to make something like he do. See my animatoin and say, is it looks like?
 [My animation](https://eleukina.github.io/nature/)
 
 Good buy!  
