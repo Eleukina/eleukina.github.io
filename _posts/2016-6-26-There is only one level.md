@@ -3,7 +3,7 @@ layout: post
 title: Game Review of There is Only One Level
 ---
 ![_config.yml]({{ site.baseurl }}/images/reke.PNG)
-Good evening, guys! Now I make review for one more game from previous list (I said about it on previous post). It named There is Only One Level. I wish you played this game. 
+Good evening, guys! Now I make review for one more game from previous list (I said about it on previous post). It named There is Only One Level. 
 
 At the start it is too hard to play, but then this game will tighten you! In There is Only One Level you should:
 
