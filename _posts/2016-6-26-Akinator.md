@@ -48,4 +48,4 @@ The two travellers tried to slip away. Yet the genie was still floating in the a
 
 "We're going to bring him back to France. He wants to discover characters; then we'll give him what he wants."
 
-Such Jeff and Arnaud create the website akinator.com.
+Such Jeff and Arnaud create the website [akinator.com](akinator.com).
