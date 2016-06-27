@@ -2,7 +2,7 @@
 layout: post
 title: Flight of fancy in Processing
 ---
-![_config.yml](https://spritesapp.com/static/17794_22434_9649.png)
+![_config.yml](http://luckylarry.co.uk/wp-content/uploads/2009/08/arduino-processing.jpg)
 
 Hello! On previous post I wrotten about processig program. And in this post I, also, write about animations from this program.
 
