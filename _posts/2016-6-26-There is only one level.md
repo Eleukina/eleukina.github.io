@@ -2,4 +2,4 @@
 layout: post
 title: Game Review of There is Only One Level
 ---
-![_config.yml](http://www.toonbarn.com/wordpress/wp-content/uploads/2009/09/this-is-the-only-level.jpg)
+![_config.yml](http://articles-images.sftcdn.net/wp-content/uploads/sites/3/2010/02/too.png)
