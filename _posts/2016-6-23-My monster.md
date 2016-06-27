@@ -8,7 +8,7 @@ Hello for everybody! How are you?
 
 Today in course our teacher introduced us with one cute program. It called Processing.org. 
 
-![_config.yml](http://techintem.com/wp-content/uploads/2015/11/image-Processing.jpg)
+![_config.yml](https://d13yacurqjgara.cloudfront.net/users/107935/screenshots/840061/drib-processing.png)
 
 There people can can draw all that they want!
 
