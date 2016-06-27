@@ -2,7 +2,7 @@
 layout: post
 title: Flight of fancy in Processing
 ---
-https://spritesapp.com/static/17794_22434_9649.png
+![_config.yml](https://spritesapp.com/static/17794_22434_9649.png)
 
 Hello! On previous post I wrotten about processig program. And in this post I, also, write about animations from this program.
 
