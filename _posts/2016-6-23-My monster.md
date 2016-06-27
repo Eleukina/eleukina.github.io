@@ -16,6 +16,6 @@ And I due to this program can create my own monster! He is so pretty. I love him
 
 ![_config.yml]({{ site.baseurl }}/images/Снимок.PNG)
 
-( P.S. you can see him on this [page][https://eleukina.github.io/monster] )
+( P.S. you can see him on this [page](https://eleukina.github.io/monster) )
 
 Have a nice day!
