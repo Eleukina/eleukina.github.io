@@ -7,9 +7,9 @@ Good evening, guys! Now I make review for one more game from previous list (I sa
 
 At the start it is too hard to play, but then this game will tighten you! In There is Only One Level you should:
 
-Firstly, think how to move and control elephant(main character). Because there is one level (location don't change), but different stages. On each stage there different control c:
+- Firstly, think how to move and control elephant(main character). Because there is one level (location don't change), but different stages. On each stage there different control c:
 
-Secondly, try to win stage of level.
+- Secondly, try to win stage of level.
 
 Now, as always, I write rules, winning condition and story of this game.
 
