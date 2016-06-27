@@ -10,7 +10,7 @@ Hello!In this post I want to talk you about developers(yeach, how you undertsand
 
 Software developers (or computer programmers) are the brains behind the design, installation, testing and maintenance of software systems.
 
-![_config.yml](http://theglasshammer.com/wp-content/uploads/2015/10/team-866663_640.jpg)
+![_config.yml]({{ site.baseurl }}/images/55555.jpg)
 
 There are different developers:
 
