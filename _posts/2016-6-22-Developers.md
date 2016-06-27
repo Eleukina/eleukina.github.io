@@ -4,13 +4,13 @@ title: Who create games?
 ---
 ![_config.yml](https://www.ucas.com/sites/default/files/styles/full_middle_column/public/117software-developer.jpg?itok=ExHLOVN0)
 
-Hello!In this post I want to talk you about developers. 
+Hello!In this post I want to talk you about developers(yeach, how you undertsand they make all games and apps). 
 
 ### Who are there?
 
 Software developers (or computer programmers) are the brains behind the design, installation, testing and maintenance of software systems.
 
-![_config.yml]({{ site.baseurl }}/images/black-people-clipart.jpeg)
+![_config.yml](http://www.vietsea.net/upload/news/2015/11/20/20112015125159732269328.jpg)
 
 There are different developers:
 
