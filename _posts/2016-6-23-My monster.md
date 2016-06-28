@@ -2,7 +2,7 @@
 layout: post
 title: My monster friend
 ---
-![_config.yml]({{ site.baseurl }}/images/maxresdefault.jpg)
+![_config.yml](http://www.misskatecuttables.com/uploads/shopping_cart/8089/large_cute-monsters.png)
 
 Hello for everybody! How are you?
 
