@@ -27,18 +27,18 @@ P.s. At the start this game make me fun, but theeeen I was so angry! Because Aki
 
 A while ago, Arnaud and his friend Jeff had decided to go on a trip into the far away lands of the East. There they uncover an old oil lamp! 
 
-![_config.yml](http://www.magiclamptours.com/wp-content/uploads/2015/08/magic-lamp.jpg)
-
 Jeff joked :
 "I know! Pick three wishes and rub it, a genie might come out!"
 
 After their third try,  dense smoke poured out of lamp and formed a small opaque cloud. Astonished, they saw a creature appear before them. It had the aspect of a man and looked quite friendly.
 
+![_config.yml](http://images.all-free-download.com/images/graphiclarge/aladdin_cartoon_vector_163689.jpg)
+
 Then a grave voice rang out:
 
 "Hello, I am the Akinator. You woke me up from a centuries-long sleep. I am capable of guessing who you are thinking about with a few questions. If I cannot, if you beat me, then I shall leave you alone. But be careful! Answer my questions accurately or... or you will take my place in the lamp."
 
-![_config.yml](http://ru.akinator.com/bundles/elokencesite/images/akitudes/akinator_defi.png?v77)
+![_config.yml](https://i.ytimg.com/vi/qSqWUcxaMgk/maxresdefault.jpg)
 
 Our two friends answered scrupulously the genie's questions and noted that he easily guessed who were the characters they had in mind. He was very proud of this deed and started to sing and talk, talk, talk... and never seemed to stop. He seemed to have inexhaustible energy. 
 
