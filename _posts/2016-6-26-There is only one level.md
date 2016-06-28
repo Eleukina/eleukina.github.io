@@ -11,6 +11,8 @@ At the start it is too hard to play, but then this game will tighten you! In The
 
 - Secondly, try to win stage of level.
 
+![_config.yml](http://pad3.whstatic.com/images/thumb/1/1f/Pass-%22This-Is-the-Only-Level%22-Step-28.jpg/aid997570-728px-Pass-%22This-Is-the-Only-Level%22-Step-28.jpg)
+
 Now, as always, I write rules, winning condition and story of this game.
 
 ### Rules of play:
