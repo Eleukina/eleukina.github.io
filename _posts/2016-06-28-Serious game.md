@@ -11,8 +11,8 @@ Have you ever heared games such like Train or Dragon Cancer? They called serious
 And now I want to show you my 1-page design doc of serious game. There can appear next question: What is one page game design doc? 
 It is a document that is exactly one page long and show game design.
 
-![_config.yml](http://www.corylivingston.com/images/warofwords/1pagedesign.jpg)
-P.s. This is ex. of one page game design doc.
+
+![_config.yml]({{ site.baseurl }}/images/f.PNG)
 
 My game called Who are you? And below you can read a little bit about this game.
 
