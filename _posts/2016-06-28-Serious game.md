@@ -12,8 +12,14 @@ It is a document that is exactly one page long and show game design.
 
 My game called Who are you? And below you can read a little bit about this game.
 
-### Rules of play
+#### Rules of play
 
-### Winning Condition
+Player should complete tasks.
 
-### Story
+#### Winning Condition
+
+If player pass 2 part of game, he win.
+
+#### Story
+
+One day king want new lands. He thinks he’s  land area is too small. So, he start war vs. neighbor kingdom. Other kingdom is very weak in military.
