@@ -2,6 +2,7 @@
 layout: post
 title: Game review of Who are you?
 ---
+![_config.yml](http://cdn.playbuzz.com/cdn/2922b724-2c28-47d5-9e46-5e259ebde949/bed1a30e-fdf1-4b3d-9a09-cbcf4cdc82e1.jpg)
 
 Good morning! 
 
@@ -12,14 +13,14 @@ It is a document that is exactly one page long and show game design.
 
 My game called Who are you? And below you can read a little bit about this game.
 
-#### Rules of play
+### Rules of play
 
 Player should complete tasks.
 
-#### Winning Condition
+### Winning Condition
 
 If player pass 2 part of game, he win.
 
-#### Story
+### Story
 
 One day king want new lands. He thinks he’s  land area is too small. So, he start war vs. neighbor kingdom. Other kingdom is very weak in military.
