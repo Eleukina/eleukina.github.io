@@ -2,7 +2,7 @@
 layout: post
 title: My monster friend
 ---
-![_config.yml](http://www.misskatecuttables.com/uploads/shopping_cart/8089/large_cute-monsters.png)
+![_config.yml](http://img10.deviantart.net/f671/i/2011/009/a/0/blue_monster_simple_by_cbr7cbr7-d36tuij.png)
 
 Hello for everybody! How are you?
 
