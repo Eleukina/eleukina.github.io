@@ -2,6 +2,8 @@
 layout: post
 title: What is a game?
 ---
+![_config.yml](https://i.ytimg.com/vi/blj91KLOvZQ/maxresdefault.jpg)
+
 Good morninng, guys! Now I wanto to talk about... games. 
 
 Yeach, you think that you know what is a game, so pls answer me: What is a game? 
@@ -10,14 +12,16 @@ I think, your answer is like this: game is every activity that brings pleasure. 
 
 Game is:
 
-### Rules of play
+#### Rules of play
 
-### Winning condition
+#### Winning condition
 
-### Story
+#### Story
+
+![_config.yml](https://i.ytimg.com/vi/7lPUlN0dnKk/maxresdefault.jpg)
 
 So, if some activity that brings pleasure doesn't have one of this item, it is not a game. Let's make sure. For that, we should analyze 
-any game. I pick Angre Bird.
+any game. I pick Angry Birds.
 
 ### Rules of play
 
