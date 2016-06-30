@@ -2,6 +2,8 @@
 layout: post 
 title: Motion and images
 ---
+![_config.yml](https://i.ytimg.com/vi/2jTwX8jz-44/maxresdefault.jpg)
+
 Motion graphics is a digital technique that combines images, words, sound and video.
 
 Motion graphics combine the languages of film, animation and graphic design. Combining different creative elements like typography, 
