@@ -6,13 +6,13 @@ title: Game review of Akinator
 
 Good morning! How are you?
 
-On Friday our teacher give us list of 10 different online games. And now I want to show you one of this game. It called Akinator. I think, all people know this game, but if you are like me don't know, then this post for you!
+On Friday our teacher give us list of 10 different online games. And now I want to show you one of this game. It called Akinator. I think, all people know this game, but if you don't know like me, then this post for you!
 
 Now let's analyze game. 
 
 ### Rules of play
 
-Think of a a popular character.  Akinator will ask you a series of questions. Answer them as frankly as possible. 
+At the start, think of a popular character. Akinator will ask you a series of questions. Answer them as frankly as possible. 
 Then it will automatically ask if the character it chose is correct. 
 
 ### Winning condition
