@@ -8,8 +8,6 @@ Hello for everybody! How are you?
 
 Today in course our teacher introduced us with one cute program. It called Processing.org. 
 
-![_config.yml](https://d13yacurqjgara.cloudfront.net/users/107935/screenshots/840061/drib-processing.png)
-
 There people can can draw all that they want!
 
 And I due to this program can create my own monster! He is so pretty. I love him ^-^.
