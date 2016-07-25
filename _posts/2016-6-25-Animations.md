@@ -6,7 +6,7 @@ title: Flight of fancy in Processing
 
 Hello! On previous post I wrotten about processig program. And in this post I, also, write about animations from this program.
 
-At the start when me and my class undersood how to do animations, we began to experimentwith differen figures and values. Every time we made somthing beatiful and different! And I want to share my animations with you. You can see there on this [link](https://eleukina.github.io/animation/) .
+At the start when me and my class understood how to do animations, we began to experiment with different figures and values. Every time we made somthing beautiful and different! And I want to share my animations with you. You can see them on this [link](https://eleukina.github.io/animation/) .
 
 ![_config.yml](https://i.ytimg.com/vi/IxOPqGeZUJk/maxresdefault.jpg)
 
